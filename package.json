@@ -1,0 +1,19 @@
+{
+  "name": "editexcel",
+  "version": "0.0.1",
+  "description": "edit excel documents with browser js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomashibbard/editexcel.git"
+  },
+  "author": "thomas hibbard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomashibbard/editexcel/issues"
+  },
+  "homepage": "https://github.com/thomashibbard/editexcel#readme"
+}
